@@ -1087,7 +1087,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8,<3.9.7 || >3.9.7,<4.0" # Apparently streamlit doesn't work with 3.9.7
-content-hash = "c6ea03412d350e6bb9137a0fd46332a22696ddb79a83559c438f119242ee7faa"
+content-hash = "b6cf7c083257f196edc104af42ed702bd8cc6af6e98d26c7a6b5f7577ea523d5"
 
 [metadata.files]
 altair = [

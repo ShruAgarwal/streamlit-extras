@@ -13,14 +13,14 @@ def example():
         active_track_fill="#EAE4E4",
         active_thumb_color="#EAE4E4",
         value="true",  # optional
-        key="toggle_1",
+        key="toggle1",
     )
 
     fruit_toggle = st_custom_toggle(
         label="Active",
         active_track_fill="#57FD6E",
         active_thumb_color="#052754",
-        key="toggle_2",
+        key="toggle2",
     )
 
     fruit = st.radio(
